@@ -1,0 +1,27 @@
+[
+	{
+		"nome": "Isadora Giovana Caldeira",
+		"idade": 60,
+		"cpf": "25061077709",
+		"rg": "461942185",
+		"data_nasc": "19\/04\/1961",
+		"sexo": "Feminino",
+		"signo": "Ã�ries",
+		"mae": "Antonella Malu",
+		"pai": "Elias Ricardo CauÃª Caldeira",
+		"email": "iisadoragiovanacaldeira@agnet.com.br",
+		"senha": "AyzFkixzGC",
+		"cep": "69314128",
+		"endereco": "Rua JundiÃ¡",
+		"numero": 784,
+		"bairro": "Santa Tereza",
+		"cidade": "Boa Vista",
+		"estado": "RR",
+		"telefone_fixo": "9527318140",
+		"celular": "95982191916",
+		"altura": "1,84",
+		"peso": 84,
+		"tipo_sanguineo": "AB+",
+		"cor": "verde"
+	}
+]
