@@ -1,2 +1,2 @@
-# esig-automatizador
-Esig Automatizador. Criação de automatização para processos na empresa.
+# Esig Group-automatizador
+Criação de projeto para automatização de processos na empresa.
